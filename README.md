@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there, I'm Aleksandr 👋
 
-<!--
-**Geriler/Geriler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer with 7+ years of experience specializing in internal business systems, ERP solutions, and web services.
+Currently focused on building scalable backend architectures and exploring modern development practices.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Frameworks:**
+- Go • PHP (Laravel, Yii) • C# (ASP.NET)
+- JavaScript/TypeScript, React
+
+**Databases & Tools:**
+- PostgreSQL • Redis • Docker • Kubernetes
+- Git • REST • gRPC
+
+## What I Do
+
+- **Architect & Build** — Designing scalable backend systems from the ground up
+- **Optimize** — SQL query optimization, performance tuning, refactoring legacy code
+- **Review & Mentor** — Code reviews, technical interviews, knowledge sharing
+- **Innovate** — Exploring new technologies and building side projects
+
+## Current Focus
+
+- Distributed systems • Go internals • service reliability
+- Profiling • observability • Kubernetes workflows
+- Developer tooling • performance engineering
